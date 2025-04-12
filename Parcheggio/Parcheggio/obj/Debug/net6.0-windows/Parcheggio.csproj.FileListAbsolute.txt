@@ -1,0 +1,16 @@
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\bin\Debug\net6.0-windows\Parcheggio.exe
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\bin\Debug\net6.0-windows\Parcheggio.deps.json
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\bin\Debug\net6.0-windows\Parcheggio.runtimeconfig.json
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\bin\Debug\net6.0-windows\Parcheggio.dll
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\bin\Debug\net6.0-windows\Parcheggio.pdb
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.Form1.resources
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.csproj.GenerateResource.cache
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.AssemblyInfoInputs.cache
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.AssemblyInfo.cs
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.csproj.CoreCompileInputs.cache
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.dll
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\refint\Parcheggio.dll
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.pdb
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\Parcheggio.genruntimeconfig.cache
+C:\Users\masnada.21197\Desktop\Parcheggio\Parcheggio\obj\Debug\net6.0-windows\ref\Parcheggio.dll
